@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/lochana-kariyawasam-8a1015270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lochana kariyawasam" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/lochana-kariyawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lochana kariyawasam" height="30" width="40" /></a>
 <a href="https://instagram.com/freyrloch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="freyrloch" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/freyrloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="freyrloch" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/lochanakariyawa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lochanakariyawa1" height="30" width="40" /></a>
