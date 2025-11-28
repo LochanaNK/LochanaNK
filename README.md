@@ -4,6 +4,7 @@
 
 
 - 📫 How to reach me **lochanakariyawasam10@gmail.com**
+- 🌏 My Portfolio **http://lochanank.me**
 
 - ⚡ Fun fact **The spinning circle you see when your computer is loading is called a "throbber".**
 
